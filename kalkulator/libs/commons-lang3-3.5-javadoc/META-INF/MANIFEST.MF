@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Commons Lang
+Implementation-Version: 3.5
+Built-By: britter
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons Lang
+Implementation-Vendor-Id: org.apache.commons
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_102
+Specification-Version: 3.5
+Implementation-Vendor: The Apache Software Foundation
+
